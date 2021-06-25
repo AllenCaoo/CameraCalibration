@@ -1,3 +1,3 @@
 # CameraCalibration
 
-A tool for calibrating distorted cameras I made a while back.
+A tool for calibrating distorted cameras.
